@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAXSIZE 10
  
-void main()
+void sort()
 {
     int array[MAXSIZE];
     int i, j, num, temp;
